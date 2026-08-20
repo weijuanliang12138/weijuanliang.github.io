@@ -11,9 +11,37 @@ I‘m an Assistant Professor in the School of Mathematical Sciences at Xiamen Un
 
 
 EXPERIENCE
+======
 - Assitant Professor (2025/08-present), School of Mathematical Sciences, Xiamen University, Xiamen, Fujian, China
 - Postdoctoral Associate (2023/06-2025/07), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
 - Postgraduate Associate (2022/01-2023/06), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
+
+EDUCATION
+======
+- Ph.D. in Statistics (2023), School of Statistics, Renmin University of China, Beijing, China
+- M.A. in Statistics (2019), School of Economics, Xiamen University, Xiamen, China
+- B.S. in Statistics (2016), School of Science, Wuhan University of Technology, Xiamen, China
+
+RESEARCH INTERESTS
+======
+High-dimensional Data analysis, graphical models, statistical inference, and multi-source data integration.
+
+PUBLICATIONS
+======
+
+TEACHING
+======
+- Probability and Statistics, School of Mathematical Sciences, Xiamen University (Spring 2026)
+
+
+CONTACT
+======
+
+Room 511B, Admin Building, Haiyun Garden, Siming District, Xiamen, Fujian, China 
+**Email**: weijuan.liang@xmu.edu.cn
+
+
+
 
 A data-driven personal website
 ======
