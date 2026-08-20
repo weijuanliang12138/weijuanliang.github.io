@@ -9,6 +9,12 @@ redirect_from:
 
 I‘m an Assistant Professor in the School of Mathematical Sciences at Xiamen University University. My research interests include high-dimensional data analysis, graphical models, statistical inference, and multi-source data integration.
 
+
+EXPERIENCE
+- Assitant Professor (2025/08-present), School of Mathematical Sciences, Xiamen University, Xiamen, Fujian, China
+- Postdoctoral Associate (2023/06-2025/07), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
+- Postgraduate Associate (2022/01-2023/06), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
