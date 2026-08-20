@@ -1,64 +1,45 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+EXPERIENCE
+======
+- Assitant Professor (2025/08-present), School of Mathematical Sciences, Xiamen University, Xiamen, Fujian, China
+- Postdoctoral Associate (2023/06-2025/07), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
+- Postgraduate Associate (2022/01-2023/06), Department of Biostatistics, School of Public Health, Yale University, New Haven, CT, USA
 
-{% include base_path %}
+EDUCATION
+======
+- Ph.D. in Statistics (2023), School of Statistics, Renmin University of China, Beijing, China
+- M.A. in Statistics (2019), School of Economics, Xiamen University, Xiamen, China
+- B.S. in Statistics (2016), School of Science, Wuhan University of Technology, Xiamen, China
 
-Education
+RESEARCH INTERESTS
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+High-dimensional Data analysis, graphical models, statistical inference, and multi-source data integration.
 
-Work experience
+PUBLICATIONS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- F Xu, **W Liang**, S Ma, Q Zhang (2026). Adaptive Multi-Prior Lasso for High-Dimensional Generalized Linear Models. [arXiv preprint arXiv:2604.15070]
+- **W Liang**, Q Zhang, S Ma (2026). A high-dimensional additive model with a nonparametric extension of Box–Cox transformations. Statistics & Probability Letters, 110756.
+- **W Liang**, Q Zhang, S Ma (2024). Hierarchical false discovery rate control for high-dimensional survival analysis with interactions. Computational statistics & data analysis 192, 107906.
+- **W Liang**, Q Zhang, S Ma (2023). Locally sparse quantile estimation for a partially functional interaction model. Computational statistics & data analysis 186, 107782.
+- 张皓，赵佩玉，**梁维娟**，虞义华 (2022). 空间集聚、产业关联与企业创新. 产业经济研究, 28-41.
+- Q Zhang, H Chai, **W Liang**, S Ma (2021).Robust identification of gene-environment interactions under high-dimensional accelerated failure time models. International Forum on Financial Mathematics and Financial Technology, 37-63.
+- **W Liang**, S Ma, C Lin (2021). Marginal false discovery rate for a penalized transformation survival model. Computational statistics & data analysis 160, 107232.
+- **W Liang**, S Ma, Q Zhang, T Zhu (2021). Integrative sparse partial least squares. Statistics in medicine 40 (9), 2239-2256.
+- P Lai, **W Liang**, F Wang, Q Zhang (2020). Feature screening of quadratic inference functions for ultrahigh dimensional longitudinal data. Journal of Statistical Computation and Simulation 90 (14), 2614-2630.
+- 胡世霞, 李崇光, **梁维娟**, 张春阳, 沈祥成 (2017). 湖北省农业信息化对蔬菜产业发展影响的实证研究. 河南农业科学 46 (7), 154.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+TEACHING
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- Probability and Statistics, School of Mathematical Sciences, Xiamen University (Spring 2026)
+
+
+CONTACT
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+Room 511B, Admin Building, Haiyun Garden, Siming District, Xiamen, Fujian, China 
+
+**Email**: weijuan.liang@xmu.edu.cn
+
+**Google Scholar Profile**: [https://scholar.google.com/citations?hl=zh-CN&user=1Rv6q5cAAAAJ]
+
