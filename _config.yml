@@ -19,7 +19,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Photo.png"
+  avatar           : "./images/Photo.png"
   name             : "Weijuan Liang"
   bio              : "Assistant Professor at Xiamen University"
   location         : "Xiamen, China"
