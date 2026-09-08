@@ -38,6 +38,7 @@ CONTACT
 ======
 
 Room 511B, Admin Building, Haiyun Garden, Siming District, Xiamen, Fujian, China 
+
 福建省厦门市思明区海韵园校区数学科学学院行政楼C511B
 
 **Email**: weijuan.liang@xmu.edu.cn
