@@ -1,11 +1,11 @@
 ---
-title: "Locally sparse quantile estimation for a partially functional interaction model"
+title: "Marginal false discovery rate for a penalized transformation survival model"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-number-1
+permalink: /publication/2021-number-2
 date: 2023-10-01
 venue: 'Computational statistics & data analysis'
-paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11566403/'
-citation: 'W Liang, Q Zhang, S Ma (2023). Locally sparse quantile estimation for a partially functional interaction model. Computational statistics & data analysis 186, 107782.'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167947321000669'
+citation: 'W Liang, S Ma, C Lin (2021). Marginal false discovery rate for a penalized transformation survival model. Computational statistics & data analysis 160, 107232.'
 ---
 
