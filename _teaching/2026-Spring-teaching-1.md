@@ -1,14 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Probability and Statistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2026-Spring-teaching-1
 venue: "Xiamen University, School of Mathematical Sciences"
-date: 2026-09-01
+date: 2026-02-01
 location: "Xiamen, China"
 ---
 
 
-Heading 1
-======
-Probability and Statistics
