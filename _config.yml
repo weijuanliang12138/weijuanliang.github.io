@@ -28,7 +28,7 @@ author:
 
   # Academic websites
   academia         : "https://math.xmu.edu.cn/info/1089/37200.htm" # URL
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1Rv6q5cAAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : # URL
   impactstory      : # URL
   semantic         : # URL
@@ -202,7 +202,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
