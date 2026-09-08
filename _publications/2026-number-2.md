@@ -1,7 +1,7 @@
 ---
 title: "A high-dimensional additive model with a nonparametric extension of Box–Cox transformations."
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2026-number-2
 date: 2026-04-01
 venue: 'Statistics & Probability Letters'
