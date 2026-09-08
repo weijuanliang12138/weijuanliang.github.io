@@ -1,11 +1,11 @@
 ---
-title: "Locally sparse quantile estimation for a partially functional interaction model"
+title: "湖北省农业信息化对蔬菜产业发展影响的实证研究"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-number-1
-date: 2023-10-01
-venue: 'Computational statistics & data analysis'
-paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11566403/'
-citation: 'W Liang, Q Zhang, S Ma (2023). Locally sparse quantile estimation for a partially functional interaction model. Computational statistics & data analysis 186, 107782.'
+permalink: /publication/2017-number-1
+date: 2017-01-01
+venue: '河南农业科学'
+paperurl: 'https://www.hnnykx.org.cn/CN/abstract/abstract7532.shtml'
+citation: '胡世霞, 李崇光, 梁维娟, 张春阳, 沈祥成 (2017). 湖北省农业信息化对蔬菜产业发展影响的实证研究. 河南农业科学 46 (7), 154.'
 ---
 
