@@ -13,7 +13,7 @@ title                    : " Weijuan Liang (梁维娟)"
 name                     : "Weijuan Liang"
 description              : "I‘m an Assistant Professor in the School of Mathematical Sciences at Xiamen University University. My research interests include high-dimensional data analysis, graphical models, statistical inference, and multi-source data integration."   # Update this with a general description of your site, this is the default if not overridden by a page"
 repository               : "academicpages/academicpages.github.io"
-# url                      : https://github.com/weijuanliang12138/weijuanliang.github.io/
+url                      : "https://github.com/weijuanliang12138/weijuanliang.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
